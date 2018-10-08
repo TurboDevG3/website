@@ -1,3 +1,3 @@
-# Website ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Turbodega's distributor focused web application ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Test.
+This web application aims to facilitate distribution logistics in emerging countries. 
