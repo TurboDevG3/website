@@ -1,0 +1,37 @@
+October 15, 2018
+
+Each of the team member is assigned to build webpages that can work independently, before combining them into one website.
+- List of website and feedback
+
+<Aliah Mohd Nazarudin>
+Login Page: https://aliahnazamusa.github.io/turbodega_login/
+Registration Form: https://aliahnazamusa.github.io/signup_turbodega/
+Login in with social media: https://aliahnazamusa.github.io/social_network/
+
+*Feedback*
+The database of login information should be stored in Firebase (refer Firebase file for the account information)
+Next week: Email Validation
+Should also allow login with phone number
+For registration: should have information for the GPS coordinate 
+
+<Yahya Azami>
+Active Bidding Page: https://yazami.github.io/
+
+*Feedback*
+Instead of bidding the whole amount, the distributor should be able to bid for the amount of goods that is available in their inventory.
+Whatever in the catalogue page (inventory), should be the same as the inventory in catalogue
+
+Need the back end webpage for the lowest bid: confirm/reject
+If they're accepted: They will receive email saying they win the bid and they have to deliver (amount) of goods to this address by certain date.
+
+<Thusha Sivapatharajah>
+Homepage: https://thushasiva.github.io/thusha_turbodega/
+After Login Page & Catalogue: https://thushasiva.github.io/trial/
+
+*Feedback*
+Catalogue:
+Catalogue should also be updated with the amount of goods in the distributor's inventory.
+
+
+<Nabil Ersyad Noor Edie Putera>
+Biddng History Page: https://nabilersyad.github.io/Pages/bid_history.html
